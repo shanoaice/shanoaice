@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **F# and MVU-style UI design**
 
-- 📝 I regularly write articles on [blog.bugsur.cf](blog.bugsur.cf)
+- 📝 I regularly write articles on [blog.bugsur.cf](https://blog.bugsur.cf)
 
 - 💬 Ask me about **React, F# and all kinds of stuff**
 
