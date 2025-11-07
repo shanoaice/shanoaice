@@ -14,6 +14,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanoaice&show_icons=true&theme=tokyonight&locale=en" alt="shanoaice" /></p>
 
-<h3 align="left">BOINC Stats</h3>
-
+### BOINC Stats
 [![BOINC Stats](https://www.boincstats.com/signature/-1/user/237755397152/sig.png)](https://www.boincstats.com/stats/-1/user/detail/237755397152/)
+
+### Folding@Home Stats
+[![Folding@Home Stats](https://folding.extremeoverclocking.com/sigs/sigimage.php?u=1363915)](https://folding.extremeoverclocking.com/user_summary.php?s=&u=1363915)
